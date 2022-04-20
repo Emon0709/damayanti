@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins',sans-serif;
+}
+.id{
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(rgba(0,0,0,0.50),rgba(0,0,0,0.50)),url(https://th.bing.com/th/id/R.5a1fb7d72612b9b20a5e3d4763db39dc?rik=%2bopxoE5%2f%2f6AJzg&riu=http%3a%2f%2fgetwallpapers.com%2fwallpaper%2ffull%2f6%2fb%2fa%2f151265.jpg&ehk=WI2SBlActnAa0qPABqV1uMAaaAnInwyF%2f3njo%2bv5wZw%3d&risl=&pid=ImgRaw&r=0);
+    background-size: cover;
+    background-position: center; 
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    
+}
+.profile-pic{
+    background:#fff ;
+    width: 150px;
+    border-radius: 50%;
+    padding: 0.2%;
+}
+a{
+    text-decoration: none;
+}
+button{
+    margin: 60px;
+    background:white;
+    color: #ff574a;
+    outline: none;
+    border: none;
+    box-shadow: 0 5px 10px rgba(244, 67, 54 , 0.5);
+    padding: 15px 60px;
+    cursor: pointer;
+    border-radius: 30px;
+    margin-bottom: -50px;
+    font-weight: 600;
+    font-size: 16px;
+}
+h1,p{
+    margin-top: 20px;
+    color: white;
+}
+.me{
+    width: 50px;
+    height: 50px;
+}
+p{
+    font-size: 20px;
+}
